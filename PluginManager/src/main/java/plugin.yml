@@ -1,0 +1,10 @@
+main: com.nextlvlup.PluginManager.Main
+name: PluginManager
+version: 0.0.1
+author: SimonSky
+depend:
+  - UltraPermissions
+softdepend:
+  - WorldEdit
+commands:
+  plugin:

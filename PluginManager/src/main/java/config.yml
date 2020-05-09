@@ -1,0 +1,5 @@
+blacklist:
+  - PluginManager
+blacklist_premium:
+  - PluginManager
+uninstalled: []
